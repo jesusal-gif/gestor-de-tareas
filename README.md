@@ -87,4 +87,4 @@ Vista móvil:
 
 ![Móvil](capturas/movil.png)
 
-_Pendiente: agregar `capturas/localstorage.png` con DevTools → Application → Local Storage._
+![localStorage](capturas/localstorage.png)
